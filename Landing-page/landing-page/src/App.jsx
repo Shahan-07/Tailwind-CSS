@@ -17,6 +17,7 @@ function App() {
           <a href="#" className='inline-block p-2 text-indigo-200 hover:text-indigo-100'>About</a>
         </div>
 
+
         {/* right side */}
 
         <div className='hidden md:block'>

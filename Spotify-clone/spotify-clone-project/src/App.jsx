@@ -9,8 +9,8 @@ function App() {
   return (
     <>
         <div className='flex flex-col h-screen'>
-          <div className='bg-blue-500 flex-1'>Top</div>
-          <div className='bg-blue-300'>Bottom</div>
+          <div className='bg-blue-500 flex-1 text-start'>Top</div>
+          <div className='bg-blue-300 text-start'>Bottom</div>
         </div>
       
     </>
